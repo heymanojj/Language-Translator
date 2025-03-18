@@ -25,4 +25,8 @@ This is a simple *Language Translator Web App* built using *JavaScript*. It allo
 ## 📦 Installation & Setup
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/heymanojj/language-translator.git 
+   git clone https://github.com/heymanojj/language-translator.git
+
+
+
+   ![Image](https://github.com/user-attachments/assets/8ff04c79-67b6-4e70-af15-898db67f2120)
