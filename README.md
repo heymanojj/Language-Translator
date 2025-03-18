@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/8ff04c79-67b6-4e70-af15-898db67f2120)
+
+
 # 🌍 JavaScript Language Translator Web App
 
 ## 🚀 Overview
@@ -29,4 +32,4 @@ This is a simple *Language Translator Web App* built using *JavaScript*. It allo
 
 
 
-   ![Image](https://github.com/user-attachments/assets/8ff04c79-67b6-4e70-af15-898db67f2120)
+
